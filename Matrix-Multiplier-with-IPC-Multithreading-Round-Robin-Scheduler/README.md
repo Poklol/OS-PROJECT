@@ -57,13 +57,11 @@ Workflow :
 
 
 
-This project was done as an Assignment in the coursework of CS F372 Operating Systems.
+This project was done as an Assignment in the coursework of  Operating Systems in ODD semester 3 in SRM ktr
 
 Team Members :
 
-Shreyash Bhardwaj 
-Animish Prateek 
-Andrew Alex Devasia
-Hirakjyoti Nath 
-Krishn Parasar 
-Nikhil Raj
+Charukesh.B
+Shyam Sundar
+Suhail
+
